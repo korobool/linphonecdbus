@@ -1,0 +1,1 @@
+#define LIBLINPHONE_GIT_VERSION "3.6.99-489-gddfdb7f"
